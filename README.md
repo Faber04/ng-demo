@@ -1,4 +1,4 @@
-# ng-demo
+# NG-DEMO
 Demo Angular
 
 <ul>
