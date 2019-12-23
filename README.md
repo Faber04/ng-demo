@@ -12,3 +12,6 @@ Demo Angular
   <li>Demo Firebase</li>
   <li>projects/iChat</li>
 </ul>
+
+
+run <code>npm install</code> before start each projcts
