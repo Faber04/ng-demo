@@ -12,3 +12,9 @@ Demo Angular
   <li>Demo Firebase</li>
   <li>projects/iChat</li>
 </ul>
+
+
+run <code>npm install</code> before start each projcts<br>
+some projects (\*\) needs bootstrap, jquery and font-awesome
+
+run <code>npm install bootstrap jquery font-awesome</code>
